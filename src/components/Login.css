@@ -1,0 +1,15 @@
+.form {
+  margin: 10% 30% 0 30%;
+  padding: 20px;
+  border: 2px solid black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-weight: bold;
+  text-decoration: underline;
+  background-color: rgb(237, 171, 6);
+}
+
+.btn1 {
+  margin: 10px;
+}
